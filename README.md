@@ -22,8 +22,6 @@ The project follows the following workflow:
 
 8. **Looker Studio**: Finally, the data in BigQuery can be visualized using Looker Studio. Looker Studio is a business intelligence software and big data analytics platform that helps you explore, analyze, and share real-time business analytics easily. It provides interactive dashboards and visualizations for data analysis and reporting.
 
-## Note
-Please note that the actual implementation may vary based on the specific requirements of your project.
 
 ![Placeholder Image](image.png)
 
